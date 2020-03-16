@@ -31,6 +31,6 @@ int main()
     student stud;
     starosta star;
     stud.printOpis();
-    .printOpis();
+    star.printOpis();
 
 }
