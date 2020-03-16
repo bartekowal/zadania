@@ -13,7 +13,7 @@ class starosta : public student
 {
 public:
     string Opis_ = "starosta grupy";
-    string starosta1;
+    string star;
 };
 
 student::student()
@@ -31,6 +31,6 @@ int main()
     student stud;
     starosta starosta1;
     stud.printOpis();
-    starosta1.printOpis();
+    star.printOpis();
 
 }
