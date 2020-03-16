@@ -29,8 +29,8 @@ void student::printOpis()
 int main()
 {
     student stud;
-    starosta starosta1;
+    starosta star;
     stud.printOpis();
-    star.printOpis();
+    .printOpis();
 
 }
